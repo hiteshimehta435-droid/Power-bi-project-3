@@ -141,7 +141,7 @@ Rename the example files and folders to match the actual files in your repositor
 👤 Author
  Mehta Hiteshi
 
-Add your GitHub profile link here: https://github.com/your-username
+Add your GitHub profile link here: https://github.com/hiteshimehta435-droid/Power-bi-project-3
 
 ## 📄 License
 This project is intended for learning and portfolio demonstration. Add a license file if you want to define permissions for reuse.
