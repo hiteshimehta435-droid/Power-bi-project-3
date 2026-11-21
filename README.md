@@ -106,20 +106,23 @@ Rename the example files and folders to match the actual files in your repositor
 ## 🖼️ Dashboard Preview
  # Deposit Target Dashboard
 
-<img width="927" height="511" alt="PR 3 1" src="https://github.com/user-attachments/assets/751279c3-7b9c-437b-aa0d-9f34495f787a" />
+<img width="997" height="553" alt="PR 3 1" src="https://github.com/user-attachments/assets/d0b2a9c0-f96c-43b3-abc0-16a1d5fe4f64" />
+
 
 
 
  # Loan Portfolio Breakdown
 
-<img width="932" height="509" alt="PR 3 2" src="https://github.com/user-attachments/assets/8e60d95e-2c14-4344-96a8-7d28135a1690" />
+<img width="998" height="555" alt="PR 3 2" src="https://github.com/user-attachments/assets/375e86fb-f340-443f-8c27-5bc23ed0f5b0" />
+
 
 
 
 
  # Branch Performance Dashboard
 
-<img width="923" height="507" alt="PR 3 3" src="https://github.com/user-attachments/assets/6f4735f2-0f91-4de4-b446-103fb63eed50" />
+<img width="1000" height="547" alt="PR 3 3" src="https://github.com/user-attachments/assets/816edf97-6adb-46ee-a312-4d5558af0c03" />
+
 
 
 
